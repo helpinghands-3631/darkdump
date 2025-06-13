@@ -1,0 +1,1 @@
+mv /sdcard/Download/your_log.txt ~/logs/shepp_dump.txt
